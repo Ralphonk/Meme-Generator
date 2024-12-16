@@ -1,0 +1,23 @@
+{
+  "name": "meme-generator",
+  "description": "https://scrimba.com/learn-react-legacy-c003ni72th/~045/s0f7n1mo2m/head",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "regenerator-runtime": "^0.14.1",
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "babel-core": "^6.0",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
